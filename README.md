@@ -10,5 +10,5 @@ Simple yet powerful PHP framework. [Check the docs](https://nicojones.github.io/
 I found this in a maths book. It's an algorithm to compute Which day of the year will Easter Sunday be. And then I decided to make it play music. [Check it here](https://github.com/nicojones/easter)
 
 ### Some other projects
-#### [geonaut.uk/] Selfies website, one a week since 2014!
-#### [mumimhere.com/] map website for travelers... log your present and past trips
+#### [https://geonaut.uk/] Selfies website, one a week since 2014!
+#### [https://mumimhere.com/] map website for travelers... log your present and past trips
