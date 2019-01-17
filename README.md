@@ -36,6 +36,6 @@ I wanted to learn &lt;canvas&gt; and know what all the hipe around it is about. 
 
 ### Some other projects
 [Geonaut](https://geonaut.uk/) Selfies website, one a week since 2014!    
-[Mum I'm Here](https://mumimhere.com/) map website for travelers... log your present and past trips    
-[Kupfer.es](https://kupfer.es/) my home website
-[YoutubeGo](https://youtube.kupfer.es/) a one-page Youtube webapp with instant search, playlists... (made in 2014)
+[Mum I'm Here](https://mumimhere.com/) map website for travelers... log your present and past trips     
+[Kupfer.es](https://kupfer.es/) my home website    
+[YoutubeGo](https://youtube.kupfer.es/) a one-page Youtube webapp with instant search, playlists... (made in 2014)    
