@@ -14,6 +14,15 @@ I'm learning React.js and this looked like a good opportunity to learn.
 Mix two subtitles into one and display them together. [See the repo](https://nicojones.github.io/subtitles/)
 
 
+### Canvas Experiment - Gravity!
+I wanted to learn &lt;canvas&gt; and know what all the hipe around it is about. This is my first project: *bouncing balls* 
+[See the repo](https://nicojones.github.io/canvas-pool/)
+
+### Canvas Experiment - Billiard / Pool
+I wanted to learn &lt;canvas&gt; and know what all the hipe around it is about. This is my second project: *a game of pool* (still has some minor bugs...)
+[See the repo](https://nicojones.github.io/canvas-pool/)
+
+
 ### Some other projects
 #### [Geonaut](https://geonaut.uk/) Selfies website, one a week since 2014!
 #### [Mum I'm Here](https://mumimhere.com/) map website for travelers... log your present and past trips
