@@ -10,8 +10,6 @@ Simple yet powerful PHP framework. [Check the docs](https://nicojones.github.io/
 I found this in a maths book. It's an algorithm to compute Which day of the year will Easter Sunday be. And then I decided to make it play music.  
 [Use it](https://nicojones.github.io/easter/index.html)   
 [See the repo](https://github.com/nicojones/easter)   
-[button url="https://github.com/nicojones/easter"]
- <button class = "markdown-button" type="introbutton">GET IN TOUCH</button>
 
 ### Merge subtitles
 I'm learning React.js and this looked like a good opportunity to learn.  
@@ -39,30 +37,3 @@ I wanted to learn &lt;canvas&gt; and know what all the hipe around it is about. 
 ### Some other projects
 #### [Geonaut](https://geonaut.uk/) Selfies website, one a week since 2014!
 #### [Mum I'm Here](https://mumimhere.com/) map website for travelers... log your present and past trips
-
-
-
-<style>
-       /* Intro button*/
-     .markdown-button {
-       background-color: rgba(255, 255, 255, 0.0);
-         color: white;
-           font-family: futura-pt, sans-serif;
-         font-style: normal;
-         font-weight: 600;
-           font-size: 20px;
-          padding: 13px 29px;
-          border-radius: 4px;
-           text-align: center;
-         border: 3px solid #ffffff;
-       
-         -webkit-transition-duration: 0.4s; /* Safari */
-         transition-duration: 0.4s;
-     }
-     
-     .button:hover {
-         background-color: #ffffff;
-         color: black;
-     }
-     
-</style>
