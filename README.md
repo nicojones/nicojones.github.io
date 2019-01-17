@@ -3,7 +3,7 @@
 Here I will post every now and then my repositories, or updates about them.
 
 ### Ribosome
-<img src="https://i.imgur.com/xhDwTWD.png" alt="logo" height="50px" width="50px"/>
+<img src="https://i.imgur.com/xhDwTWD.png" alt="logo" height="40px" width="40px" style="float:left"/>
 Simple yet powerful PHP framework. [Check the docs](https://nicojones.github.io/Ribosome) for more info.
 
 ### When is Easter?
